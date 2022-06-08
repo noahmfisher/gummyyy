@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Fur
-url: "https://noahmfisher.github.io/"
-baseurl: "gummyyy/"
+title: Test
+url: "https://noahmfisher.github.io/gummyyy/"
+baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
@@ -13,7 +13,7 @@ snipcart_currency: "usd"
 logo: /siteicon.png
 description: Fur t-shirt store
 author:
-  name: fur
+  name: Test
   email: fur@example.com
   twitter: fur # twitter username without the @ symbol
   phone: "+1 23456789"
@@ -67,13 +67,5 @@ exclude:
   - LICENCE
 
 social_icons:
-  - Email
-  - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
-  - YouTube
-  - RSS
