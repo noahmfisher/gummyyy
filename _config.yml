@@ -2,8 +2,8 @@
 # Site
 
 title: Fur
-url: "https://noahmfisher.github.io/gummyyy/"
-baseurl:
+url: "https://noahmfisher.github.io/"
+baseurl: "gummyyy/"
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
